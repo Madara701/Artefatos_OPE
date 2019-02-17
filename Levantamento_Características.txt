@@ -1,0 +1,32 @@
+- Cadastro de contratos
+	- Contratos separados por tipo (Física/Jurídica)
+	- Possibilidade de prorrogação contrato/projeto
+	- Inclusão de documentos para regularização da obra
+- Controle de despesas por projeto 
+	- Introdução de descontos no valor final do projeto 
+	- Sistema de lista de cliente (Separados por categoria)
+	- Sistema de descrição do serviço
+	- Controle de Centro de Custos
+	- Geração de relatório por período (fluxo de caixa) 
+	- Inclusão de gastos extras por projeto 
+	- Aviso de aproximação de data de pagamento
+	- Inserir comprovantes de despesas extras (O.S, cupom fiscal e etc.…)
+	- Rateio da mão de obra/esforço de trabalho no projeto
+	- Controle de prazos /contratos inadimplentes
+	- Valor dos contratos
+- Controle de gastos administrativos
+	- Despesas básicas do escritório
+	(Agua, luz, funcionários e gastos com mão de obra de terceiros)
+	- Geração de relatório mensal com os gatos Administrativos!
+- Interface para controle de permissão de acessos
+	- O cliente determina quem pode ter acesso a informações e projetos
+- Controle do projeto
+	- Inclusão da planta do projeto
+	- Controle das versões da planta do projeto 
+	- Previsão de conclusão do projeto (planta)
+	- Prorrogação da data de conclusão (planta)
+	- Previsão de horas gastas no projeto
+	- Cancelamento do projeto
+
+
+	
